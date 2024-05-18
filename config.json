@@ -1,0 +1,10 @@
+{
+    "hue_range": 10,
+    "saturation_min": 100,
+    "saturation_max": 255,
+    "value_min": 100,
+    "value_max": 255,
+    "min_contour_area": 1000,  
+    "kernel_size": 5           
+    
+}
